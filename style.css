@@ -8,7 +8,7 @@ html{
     scroll-behavior: smooth;
 }
 body{
-    background: url(images/star.jpg);
+    background: url(images/Star.jpg);
     background-size: cover;
     background-position:center;
     background-attachment: fixed;
